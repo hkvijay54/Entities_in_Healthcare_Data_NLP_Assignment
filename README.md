@@ -49,5 +49,8 @@ These labels correspond to each word that is available in the ‘train_sent’ a
 spacy,sklearn_crfsuite(metrics)
 pandas,numpy
 
+
+#Links and sourcesz
+https://drive.google.com/drive/folders/1N-BXyu3VkJbQWBp13IXkpJu_OLjYJXG9?usp=drive_link
 ## Contact
 Created by [@hkvijay54] - feel free to contact me!
